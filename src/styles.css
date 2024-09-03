@@ -1,0 +1,43 @@
+.formulario-login {
+
+width: 200px;
+height: 300px;
+background-color: rgb(157, 163, 161);
+color: #000000;
+margin: auto;
+margin-top: 50px;
+padding: 15px 45px;
+}
+
+.formulario-login h2{
+
+text-align: center;
+font-size: 25px;
+border-bottom: 3px solid #000000;
+}
+
+.controls {
+
+padding: 8px 7px;
+margin-bottom: 10px;
+}
+
+.button {
+
+padding: 6px 5px;
+margin-bottom: 12px;
+}
+
+.formulario-login p {
+
+text-align: center;
+color: blue;
+border-bottom: 3px solid #000000;
+}
+
+h5 {
+
+text-align: center;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
